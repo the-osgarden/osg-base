@@ -1,5 +1,5 @@
 {
-    "name": "cllc/kiosk",
+    "name": "tosg/kiosk",
     "description": "Angular based Kiosk Application",
     "homepage": "http://www.cllcmedia.com",
     "type": "library",
@@ -22,11 +22,11 @@
     "repositories": [
         {
             "type": "composer",
-            "url":"http://repos.fatrobinconsulting.com"
+            "url":"http://the-osgarden.fatrobinconsulting.com"
         }
     ],
     "require": {
-        "cllc/brightleaf": "dev-dev-composer",
+	"the-osgarden/osg-base": "dev",
         "symfony/http-foundation": "2.1.*@dev",
         "twig/twig": "1.12.*@dev",
         "symfony/class-loader": "2.3.*@dev",
