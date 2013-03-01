@@ -1,5 +1,5 @@
 {
-    "name": "the-osgarden/kiosk",
+    "name": "the-osgarden/osg-base",
     "description": "Angular based Kiosk Application",
     "homepage": "http://www.cllcmedia.com",
     "type": "library",
@@ -26,7 +26,6 @@
         }
     ],
     "require": {
-	"the-osgarden/osg-base": "dev",
         "symfony/http-foundation": "2.1.*@dev",
         "twig/twig": "1.12.*@dev",
         "symfony/class-loader": "2.3.*@dev",
