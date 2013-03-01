@@ -1,9 +1,10 @@
 {
     "name": "the-osgarden/osg-base",
-    "description": "Angular based Kiosk Application",
+    "description": "Angular Application Framework",
     "homepage": "http://www.cllcmedia.com",
     "type": "library",
-    "license": "TBD",
+    "license": "proprietary",
+    "version": "0.8.0",
     "authors": [
         {
             "name": "Geoff Oslund",
