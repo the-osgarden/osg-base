@@ -4,7 +4,7 @@
     "homepage": "http://www.cllcmedia.com",
     "type": "library",
     "license": "proprietary",
-    "version": "0.8.0",
+    "version": "0.8.0*dev",
     "authors": [
         {
             "name": "Geoff Oslund",
@@ -15,9 +15,6 @@
             "name": "Jonathan Phillips",
             "email": "jon@cllcmedia.com",
             "homepage": "http://www.cllcmedia.com"
-        },
-        {
-            "name": "Craig Hollabaugh"
         }
     ],
     "repositories": [
