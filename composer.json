@@ -22,7 +22,7 @@
 
     ],
     "require": {
-        "the-osgarden/osg-bag":"dev-master",
+        "the-osgarden/osg-bag":"@dev",
         "symfony/http-foundation": "2.1.*@dev",
         "twig/twig": "1.12.*@dev",
         "symfony/class-loader": "2.3.*@dev",
@@ -32,7 +32,7 @@
     "minimum-stability": "dev",
     "autoload": {
 	    "psr-0": {
-	        "CES": "src/"
+	        "OSG": "src/"
 	    }
 	}
 }
