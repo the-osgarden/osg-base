@@ -18,18 +18,18 @@
         }
     ],
     "repositories": [
-        { "type": "vcs", "url": "https://github.com/the-osgarden/osg-base.git" },
         { "type": "git", "url": "git://github.com/the-osgarden/osg-bag.git" }
 
     ],
     "require": {
-        "the-osgarden/osg-bag":"master",
+        "the-osgarden/osg-bag":"dev-master",
         "symfony/http-foundation": "2.1.*@dev",
         "twig/twig": "1.12.*@dev",
         "symfony/class-loader": "2.3.*@dev",
         "symfony/console": "2.3.*@dev",
         "symfony/yaml": "2.3.*@dev"
     },
+    "minimum-stability": "dev",
     "autoload": {
 	    "psr-0": {
 	        "CES": "src/"
