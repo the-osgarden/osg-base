@@ -18,10 +18,9 @@
         }
     ],
     "repositories": [
-        {
-            "type": "composer",
-            "url":"http://the-osgarden.fatrobinconsulting.com"
-        }
+        { "type": "vcs", "url": "https://github.com/the-osgarden/osg-base.git" },
+        { "type": "git", "url": "git://github.com/the-osgarden/osg-bag.git" }
+
     ],
     "require": {
         "the-osgarden/osg-bag":"master",
