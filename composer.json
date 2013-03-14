@@ -22,7 +22,7 @@
 
     ],
     "require": {
-        "the-osgarden/osg-bag":"dev-master",
+        "the-osgarden/osg-bag":"0.8.0@dev",
         "symfony/http-foundation": "2.1.*@dev",
         "twig/twig": "1.12.*@dev",
         "symfony/class-loader": "2.3.*@dev",
